@@ -1,1 +1,1 @@
-根据相关法律法规和政策，部分搜索结果未予显示。
+https://github.com/iMeiji/shadowsocks_install/wiki
